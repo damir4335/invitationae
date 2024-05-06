@@ -1,0 +1,14 @@
+@media (max-width: 650px) {
+    .title-head {
+        font-size: 40px;
+    }
+}
+@media (max-width: 370px) {
+    .title-head {
+        font-size: 30px;
+    }
+    .header__initials_container h1{
+        font-size: 107px;
+    }
+    
+}
